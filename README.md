@@ -15,7 +15,7 @@ I'm a passionate developer who loves working on new and exciting projects that c
   - Web applications, particularly those in the education space.
   - Open-source projects that need help with front-end or back-end development.
 - 📫 **How to reach me:**
-  - Email: [your email address]
+  - LinkedIn: [https://www.linkedin.com/in/hrithikpandeyyo/]
   - GitHub: [@hrithkpandeyyo](https://github.com/hrithkpandeyyo)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love strategy games and I’m always up for a good coding challenge!
@@ -26,12 +26,6 @@ I'm a passionate developer who loves working on new and exciting projects that c
 - **Languages:** C++, JavaScript, HTML, CSS
 - **Frameworks/Libraries:** Bootstrap, jQuery
 - **Tools:** Git, GitHub, VS Code, Linux
-
----
-
-### 📈 GitHub Stats:
-
-![Hrithk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithkpandeyyo&show_icons=true&theme=radical)
 
 ---
 
