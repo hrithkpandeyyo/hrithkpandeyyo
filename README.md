@@ -1,11 +1,11 @@
-### Hi there! 👋 I'm Hrithk Pandey (@hrithkpandeyyo)
+### Hi there! 👋 I'm Hrithik Pandey (@hrithkpandeyyo)
 
 I'm a passionate developer who loves working on new and exciting projects that challenge me to grow as a programmer.
 
 - 👀 **Interests:** I'm deeply interested in web development, data structures and algorithms, and building real-world applications that solve real problems.
 - 🌱 **Currently Learning:** 
   - C++ (for mastering DSA concepts)
-  - Web Development (HTML, CSS, JavaScript)
+  - Web Development (HTML, CSS, JavaScript, **React**)
   - Working on an online portal to connect students with teachers for demo classes.
 - 💬 **Ask me about:** 
   - Web Development tips & tricks
@@ -17,7 +17,7 @@ I'm a passionate developer who loves working on new and exciting projects that c
 - 📫 **How to reach me:**
   - LinkedIn: [https://www.linkedin.com/in/hrithikpandeyyo/](https://www.linkedin.com/in/hrithikpandeyyo/)
   - GitHub: [@hrithkpandeyyo](https://github.com/hrithkpandeyyo)
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love strategy games and I’m always up for a good coding challenge!
 
 ---
@@ -26,6 +26,7 @@ I'm a passionate developer who loves working on new and exciting projects that c
 
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
