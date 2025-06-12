@@ -1,19 +1,26 @@
 ### Hi there! 👋 I'm Hrithik Pandey (@hrithkpandeyyo)
 
-I'm a passionate developer who loves working on new and exciting projects that challenge me to grow as a programmer.
+I'm a tenacious and passionate full-stack web developer who loves building solutions that solve real-world problems. I enjoy pushing my limits by working on challenging projects and collaborating with other developers.
 
-- 👀 **Interests:** I'm deeply interested in web development, data structures and algorithms, and building real-world applications that solve real problems.
-- 🌱 **Currently Learning:** 
+---
+
+### 👨‍💻 About Me
+
+- 👀 **Interests:** Web development, WordPress CMS, data structures and algorithms, and developing scalable real-world applications.
+- 🌱 **Currently Learning:**
   - C++ (for mastering DSA concepts)
-  - Web Development (HTML, CSS, JavaScript, **React**)
-  - Working on an online portal to connect students with teachers for demo classes.
-- 💬 **Ask me about:** 
-  - Web Development tips & tricks
+  - Full Stack Web Development: HTML, CSS, JavaScript, PHP, WordPress
+  - React (for dynamic front-end interfaces)
+  - MySQL (for backend database design)
+- 💬 **Ask me about:**
+  - Web Development best practices (frontend + backend)
+  - PHP and WordPress plugin/theme development
   - C++ and algorithmic problem-solving
-  - How to improve code efficiency and readability
+  - Improving code performance and readability
 - 🔭 **Looking to collaborate on:**
-  - Web applications, particularly those in the education space.
-  - Open-source projects that need help with front-end or back-end development.
+  - Web apps (especially in EdTech)
+  - WordPress development (custom themes/plugins)
+  - Open-source full-stack projects
 - 📫 **How to reach me:**
   - LinkedIn: [https://www.linkedin.com/in/hrithikpandeyyo/](https://www.linkedin.com/in/hrithikpandeyyo/)
   - GitHub: [@hrithkpandeyyo](https://github.com/hrithkpandeyyo)
@@ -22,8 +29,11 @@ I'm a passionate developer who loves working on new and exciting projects that c
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -38,11 +48,28 @@ I'm a passionate developer who loves working on new and exciting projects that c
 
 ---
 
-### 🌟 Most Used Languages:
+### 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithkpandeyyo&layout=compact&theme=radical)
 
 ---
 
-### 🧑‍💻 Projects I'm Working On:
-- **[AESOS - Every Software One Solution](#):** Building a dynamic tech company platform offering project development services, internships for students, and developer training programs.
+### 🚀 Projects I'm Working On
+
+- **[AESOS - Every Software One Solution](#)**  
+  A dynamic platform offering project development services, student internships, and developer training. Building with WordPress, PHP, and modern frontend tools.
+
+- **Online Student-Teacher Portal**  
+  A web app that connects students with verified tutors for demo classes. Built with HTML, CSS, JavaScript, and React.
+
+---
+
+### ✅ Goals for 2025
+
+- ✅ Master full-stack development (WordPress + React + PHP + MySQL)
+- ✅ Contribute to open-source WordPress plugins
+- ✅ Deploy a fully functional SaaS application
+
+---
+
+Thanks for stopping by! Let's build something great together 🚀
